@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513230241 source:/media/tuhin/CSE/Code/Car/main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

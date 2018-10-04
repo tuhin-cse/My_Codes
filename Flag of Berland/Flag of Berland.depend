@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503049825 source:/run/media/tuhin/tuhin/Tuhin/Documents/Flag of Berland/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

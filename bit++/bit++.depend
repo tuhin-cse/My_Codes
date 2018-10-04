@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497297212 source:/media/tuhin/tuhin/Tuhin/Documents/bit++/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

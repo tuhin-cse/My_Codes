@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517574724 source:/run/media/tuhin/CSE/Code/Mahmud/main.c
+	<stdio.h>
+	<stdlib.h>
+

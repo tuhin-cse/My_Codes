@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512999545 source:/media/tuhin/CSE/Code/Ternary/main.cpp
+	<iostream>
+	<algorithm>
+

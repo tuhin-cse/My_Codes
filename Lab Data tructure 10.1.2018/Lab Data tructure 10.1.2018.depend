@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515576779 source:/run/media/tuhin/CSE/Code/Lab Data tructure 10.1.2018/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

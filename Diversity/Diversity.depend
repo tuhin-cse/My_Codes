@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503676116 source:/media/tuhin/tuhin/Tuhin/Documents/Diversity/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

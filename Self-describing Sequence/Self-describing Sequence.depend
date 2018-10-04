@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511937232 source:/media/tuhin/CSE/Code/Self-describing Sequence/main.cpp
+	<iostream>
+	<math.h>
+

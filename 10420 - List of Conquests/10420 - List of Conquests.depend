@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1508308548 source:/media/tuhin/tuhin/Tuhin/Documents/10420 - List of Conquests/main.cpp
+	<stdio.h>
+	<string.h>
+
+1508314396 
+
+1508314396 source:e:\tuhin\documents\10420 - list of conquests\main.cpp
+	<stdio.h>
+	<string.h>
+
+1508310796 source:/media/tuhin/tuhin/Tuhin/Documents/10420 - List of Conquests/main.cpp
+	<stdio.h>
+	<string.h>
+
+1511950388 source:/media/tuhin/CSE/Code/10420 - List of Conquests/main.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<iostream>
+	<algorithm>
+

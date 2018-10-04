@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508304665 source:/media/tuhin/tuhin/Tuhin/Documents/amstrong/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512450404 source:/media/tuhin/CSE/Code/amstrong/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,30 @@
+#include<stdio.h>
+main()
+{
+    int a,b;
+    for(a=0;a<10;a++)
+    {
+        if(a%2==0)
+        {
+            for(b=0;b<=a;b++)
+            {
+                if(b%2==0)
+                   printf("0");
+                else
+                   printf("1");
+            }
+
+        }
+        if(a%2!=0)
+        {
+            for(b=0;b<=a;b++)
+               {
+                if(b%2==0)
+                   printf("1");
+                else
+                   printf("0");
+               }
+        }
+        printf("\n");
+    }
+}

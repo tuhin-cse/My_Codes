@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510505810 source:/media/tuhin/CSE/Code/Vlad and Cafes/main.cpp
+	<iostream>
+	<cstring>
+

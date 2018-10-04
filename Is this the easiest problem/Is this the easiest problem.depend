@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512362516 source:/media/tuhin/CSE/Code/Is this the easiest problem/main.cpp
+	<iostream>
+	<algorithm>
+

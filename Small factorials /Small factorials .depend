@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1501522197 source:/media/tuhin/tuhin/Tuhin/Documents/Small factorials /main.c
+	<stdio.h>
+	<stdlib.h>
+
+1501522197 source:/run/media/tuhin/CSE/Code/Small factorials /main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516257229 source:/run/media/tuhin/CSE/Code/Loansome Car Buyer/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

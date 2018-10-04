@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531572137 source:/run/media/sketch/CSE/Code/Time Conversion/main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+

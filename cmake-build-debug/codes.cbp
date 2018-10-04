@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/sketch/CLionProjects/codes/cmake-build-debug"/>
+				<Option working_dir="/home/sketch/CLionProjects/My_Codes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/sketch/CLionProjects/codes/cmake-build-debug"/>
+				<Option working_dir="/home/sketch/CLionProjects/My_Codes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/sketch/CLionProjects/codes/cmake-build-debug"/>
+				<Option working_dir="/home/sketch/CLionProjects/My_Codes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="codes">
-				<Option output="/home/sketch/CLionProjects/codes/cmake-build-debug/codes" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/sketch/CLionProjects/codes/cmake-build-debug"/>
+				<Option output="/home/sketch/CLionProjects/My_Codes/cmake-build-debug/codes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sketch/CLionProjects/My_Codes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 codes"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 codes"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="codes/fast">
-				<Option output="/home/sketch/CLionProjects/codes/cmake-build-debug/codes" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/sketch/CLionProjects/codes/cmake-build-debug"/>
+				<Option output="/home/sketch/CLionProjects/My_Codes/cmake-build-debug/codes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sketch/CLionProjects/My_Codes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,17 +77,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 codes/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 codes/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sketch/CLionProjects/My_Codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/sketch/CLionProjects/codes/main.cpp">
+		<Unit filename="/home/sketch/CLionProjects/My_Codes/main.cpp">
 			<Option target="codes"/>
 		</Unit>
-		<Unit filename="/home/sketch/CLionProjects/codes/CMakeLists.txt">
+		<Unit filename="/home/sketch/CLionProjects/My_Codes/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

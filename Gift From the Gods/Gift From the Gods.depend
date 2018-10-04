@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512975459 source:/media/tuhin/CSE/Code/Gift From the Gods/main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

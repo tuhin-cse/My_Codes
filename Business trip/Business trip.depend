@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516769677 source:/run/media/tuhin/CSE/Code/Business trip/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

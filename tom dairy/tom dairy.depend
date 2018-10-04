@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506313561 source:/media/tuhin/tuhin/Tuhin/Documents/tom dairy/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

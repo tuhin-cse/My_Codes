@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508771138 source:/media/tuhin/tuhin/Tuhin/Documents/Event Planning/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

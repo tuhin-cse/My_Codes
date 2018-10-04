@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509031998 source:/media/tuhin/tuhin/Tuhin/Documents/Table Tennis/main.cpp
+	<iostream>
+	<algorithm>
+

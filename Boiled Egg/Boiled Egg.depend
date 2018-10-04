@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512648910 source:/media/tuhin/CSE/Code/Boiled Egg/main.cpp
+	<iostream>
+	<algorithm>
+

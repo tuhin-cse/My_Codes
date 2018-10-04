@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516461846 source:/run/media/tuhin/CSE/Code/Boy or Girl/main.cpp
+	<iostream>
+	<algorithm>
+

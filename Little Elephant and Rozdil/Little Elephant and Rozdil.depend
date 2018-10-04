@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516715293 source:/run/media/tuhin/CSE/Code/Little Elephant and Rozdil/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

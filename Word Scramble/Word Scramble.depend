@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509270253 source:/media/tuhin/tuhin/Tuhin/Documents/Word Scramble/main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<string.h>
+
+1511860960 source:/media/tuhin/CSE/Code/Word Scramble/main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<string.h>
+

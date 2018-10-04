@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507890306 source:/media/tuhin/tuhin/Tuhin/Documents/graphies/main.c
+	<graphics.h>
+	<stdlib.h>
+

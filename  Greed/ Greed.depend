@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510933050 source:/media/tuhin/CSE/Code/ Greed/main.cpp
+	<iostream>
+	<algorithm>
+

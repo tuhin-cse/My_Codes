@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517854485 source:/run/media/tuhin/CSE/Code/Chat room/main.cpp
+	<iostream>
+	<stack>
+

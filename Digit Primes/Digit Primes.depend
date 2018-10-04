@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513346500 source:/media/tuhin/CSE/Code/Digit Primes/main.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+

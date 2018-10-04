@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512970548 source:/media/tuhin/CSE/Code/UVa-499/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

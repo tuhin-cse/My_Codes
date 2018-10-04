@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502919248 source:/run/media/tuhin/tuhin/Tuhin/Documents/Recarchip/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512359197 source:/media/tuhin/CSE/Code/12578 - 10:6:2/main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<stdio.h>
+

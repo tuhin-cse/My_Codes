@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497255601 source:/media/tuhin/tuhin/Tuhin/Documents/boy 0r girl/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

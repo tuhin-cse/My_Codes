@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1501062227 source:/media/tuhin/tuhin/Tuhin/Documents/GCd/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1501065371 source:/media/sketch/CSE/Code/GCd/main.c
+	<stdio.h>
+	<stdlib.h>
+

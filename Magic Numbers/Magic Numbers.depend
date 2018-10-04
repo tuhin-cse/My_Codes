@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516720415 source:/run/media/tuhin/CSE/Code/Magic Numbers/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstdio>
+

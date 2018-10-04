@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524811328 source:/run/media/tuhin/CSE/Code/Digits of Factorial/main.cpp
+	<bits/stdc++.h>
+	<cstdio>
+	<cmath>
+

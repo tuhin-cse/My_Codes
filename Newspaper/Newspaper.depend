@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510638780 source:/media/tuhin/CSE/Code/Newspaper/main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+

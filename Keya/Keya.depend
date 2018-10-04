@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520070062 source:/run/media/tuhin/CSE/Code/Keya/main.cpp
+	<iostream>
+	<cstdio>
+

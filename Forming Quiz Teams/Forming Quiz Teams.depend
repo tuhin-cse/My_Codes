@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516166289 source:/run/media/tuhin/CSE/Code/Forming Quiz Teams/main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<math.h>
+	<bits/stdc++.h>
+

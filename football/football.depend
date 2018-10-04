@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497166813 source:/media/tuhin/tuhin/Tuhin/Documents/football/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518024904 source:/run/media/tuhin/CSE/Code/Cloning Toys/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

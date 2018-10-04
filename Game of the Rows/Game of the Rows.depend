@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502995121 source:/run/media/tuhin/tuhin/Tuhin/Documents/Game of the Rows/main.c
+	<stdio.h>
+	<stdlib.h>
+

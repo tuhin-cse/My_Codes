@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512579159 source:/media/tuhin/CSE/Code/The Lazy Lumberjacks/main.cpp
+	<iostream>
+	<algorithm>
+
